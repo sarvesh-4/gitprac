@@ -1,1 +1,2 @@
 this is a file one by feature
+this is a file one by mian
